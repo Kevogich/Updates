@@ -1,9 +1,11 @@
 # Update
 
--Velocity
+-AIR Error
 
 -Tweaks
 
--Selection 
+-Cavitation warning on gases 
 
--Actuator 
+-lb/h 
+
+-other minor things 
